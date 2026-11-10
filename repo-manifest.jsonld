@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/googleapis/google-cloud-go/commit/1ddfb07e171b8c34dccc7e9c15926e94d823c2eb",
       "git:hexsha": "1ddfb07e171b8c34dccc7e9c15926e94d823c2eb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/googleapis/google-cloud-go/commit/50ca760f8a4415a78de2556fc545e340eae98715",
