@@ -1,0 +1,11 @@
+{
+  "org": "googleapis",
+  "repo": "google-cloud-go",
+  "versions": [
+    {
+      "commit": "1ddfb07e171b8c34dccc7e9c15926e94d823c2eb",
+      "tag": "",
+      "parsed_at": "2026-11-10T06:48:08.520084+00:00"
+    }
+  ]
+}
